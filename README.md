@@ -72,10 +72,10 @@ O projeto foi estruturado seguindo as tarefas sugeridas no desafio para garantir
 
 ## 📈 Resultados e Conclusão
 
-Após a avaliação, o modelo **Gradient Boosting Regressor (otimizado)** apresentou o melhor desempenho, com o maior valor de R² e o menor RMSE. 
+Após a avaliação, o modelo **Random Forest (otimizado)** apresentou o melhor desempenho, com o maior valor de R² e o menor RMSE. 
 Este modelo demonstrou ser mais eficaz em capturar as relações complexas entre as características do segurado e seus custos médicos, atendendo à expectativa de previsões confiáveis.
 
-Portanto, o **Gradient Boosting** é o modelo recomendado para a tarefa de predição de custos de seguro de saúde.
+Portanto, o **Random Forest** é o modelo recomendado para a tarefa de predição de custos de seguro de saúde.
 
 ---
 
